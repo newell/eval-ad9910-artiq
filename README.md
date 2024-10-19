@@ -13,5 +13,6 @@ Here are the main steps:
 * Use ARTIQ and Urukul core device driver to control the DDS
 
   
+# License
 
-
+The license follows that of the [urukul](https://github.com/quartiq/urukul) project, GPLv3+.
