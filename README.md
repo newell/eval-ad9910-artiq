@@ -3,14 +3,3 @@
 The goal of this project is to control the [EVAL-AD9910](https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/eval-ad9910.html) using [ARTIQ](https://github.com/m-labs/artiq).
 
 
-License
-=======
-
-Copyright (C) Newell Jensen.
-
-ARTIQ is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-ARTIQ is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details.
-
-You should have received a copy of the GNU Lesser General Public License along with ARTIQ. If not, see <http://www.gnu.org/licenses/>.
-
